@@ -1,4 +1,4 @@
-% computes cost and gradient for logistic regression parameterized by theta
+% (vectorized) computes cost and gradient for logistic regression parameterized by theta
 function [J, grad] = costFunction(theta, X, y)
   
   % number of training examples
