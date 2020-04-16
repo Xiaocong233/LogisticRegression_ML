@@ -12,7 +12,7 @@ Written in Octave/MATLAB, this repository Contains a set of vectorized algorithm
   - prevents overfitting by keeping thetas relatively small
     - lambda value should be chosen carefully in avoiding side effects (underfitting, overfitting)
     
-- oneVsAll (multinomialLogisticRegressionReg)
+- oneVsAll (Multinomial Logistic Regression(regularized))
   - trains multiple logistic regression classifiers and returns all where the i-th row of all_theta corresponds to the classifier for label i with thetas regularized
   
 - predict
