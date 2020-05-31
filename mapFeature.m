@@ -1,8 +1,8 @@
 % maps polynomial features to function (2 vars)
-function out = mapFeature(X1, X2)
+function out = mapFeature(X1, X2, n)
 
   % degree of polynomial
-  degree = 6;
+  degree = n;
 
   % output initialization
   out = ones(size(X1(:,1)));
