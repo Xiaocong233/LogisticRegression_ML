@@ -1,3 +1,4 @@
+% Created by Andrew Ng ML
 % maps polynomial features to function (2 vars)
 function out = mapFeature(X1, X2, n)
 
