@@ -47,6 +47,9 @@ sigmoid(z)
   - computes the sigmoid of argument z, which can be in the form a scalar, a vector, or a matrix
 
 ## Python Logistic Regression Template
-  - created by [SuperDataScience Team](https://www.superdatascience.com/) in Python, Jupyter Notebook
+  - created by [SuperDataScience Team](https://www.superdatascience.com/)
+  - can be ran through Jupyter Notebook or in Python terminal
+    - substitude 'ENTER_THE_NAME_OF_YOUR_DATASET_HERE.csv' with dataset
+      - ensure data is a csv file containing features from first to second last column and labels on the last column
 
 
