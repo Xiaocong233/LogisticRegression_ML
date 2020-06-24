@@ -1,7 +1,7 @@
 ## Description
 Written in Octave/MATLAB, this repository Contains a set of vectorized algorithms/functions serving to compute logistic regression for classification problems.
 
-## MATLAB/OctaveLogistic Regression Class Functions
+## MATLAB/Octave Logistic Regression Class Functions
 ```
 mapFeature(X1, X2)
 ```
